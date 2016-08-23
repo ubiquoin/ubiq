@@ -1,0 +1,2 @@
+debian/bin/Ubiquoind usr/bin
+src/Ubiquoind usr/lib/Ubiquoin

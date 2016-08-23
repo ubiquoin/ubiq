@@ -1,0 +1,5 @@
+Ubiquoin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/Ubiquoin-qt.desktop usr/share/applications
+debian/Ubiquoin-qt.protocol usr/share/kde4/services/
