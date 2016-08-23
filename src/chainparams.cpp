@@ -93,6 +93,9 @@ public:
         vSeeds.push_back(CDNSSeedData("node.ubiquoin.com", "node.ubiquoin.com"));
         vSeeds.push_back(CDNSSeedData("52.32.122.37", "52.32.122.37"));
         vSeeds.push_back(CDNSSeedData("52.32.35.128", "52.32.35.128"));
+        vSeeds.push_back(CDNSSeedData("52.27.231.228", "52.27.231.228"));
+        vSeeds.push_back(CDNSSeedData("52.43.250.59", "52.43.250.59"));
+        vSeeds.push_back(CDNSSeedData("52.39.79.139", "52.39.79.139"));
 
 
         base58Prefixes[PUBKEY_ADDRESS] = list_of(68);
